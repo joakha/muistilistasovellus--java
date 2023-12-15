@@ -10,4 +10,4 @@ Tässä projektissa:
 
 - Pääsin hieman soveltamaan koulussa oppimiani streamejä ja lambda -lausekkeita
 
-- Mietin käyttäjänäkökulmasta mitä virheitä suorituksen aikana voisi ilmetä, ja yritin ratkoa niitä
+- Mietin käyttäjänäkökulmasta mitä virheitä suorituksen aikana voisi ilmetä ja yritin ratkoa niitä

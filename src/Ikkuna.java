@@ -32,7 +32,7 @@ public class Ikkuna extends JFrame implements ActionListener {
     public Ikkuna() {
 
     this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-    this.setTitle("Muistilista");
+    this.setTitle("Haapanen Johannes Muistilista");
     this.setSize(600,850);
     this.getContentPane().setBackground(Color.BLACK);
     this.setResizable(false);

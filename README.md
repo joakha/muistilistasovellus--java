@@ -1,18 +1,13 @@
-## Getting Started
+Muistilistasovellus, johon voi tallentaa muistiin tehtäviä ja poistaa niitä
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Tehty Java Swing GUI:n itseharjoittelua varten.
 
-## Folder Structure
+Tässä projektissa:
 
-The workspace contains two folders by default, where:
+- Lisää olio-ohjelmointia, tällä kertaa kaikki luokat samassa tiedostossa
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Pääsin soveltamaan koulussa oppimiani rajapintoja toteuttamalla ActionListener -rajapinnan näppäimiin
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Pääsin hieman soveltamaan koulussa oppimiani streamejä ja lambda -lausekkeita
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Mietin käyttäjänäkökulmasta mitä virheitä suorituksen aikana voisi ilmetä, ja yritin ratkoa niitä
